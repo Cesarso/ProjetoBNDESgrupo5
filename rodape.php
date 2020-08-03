@@ -6,7 +6,7 @@
               <div class="col-sm-6 col-lg-4 col-xl-3">
                 <div class="oh-desktop">
                   <div class="wow slideInRight" data-wow-delay="0s">
-                    <div class="footer-brand"><a href="index.html"><img src="images/Renata-Adesivo.PNG" alt="" width="196" height="42"/></a></div>
+                    <div class="footer-brand"><a href="index.html"><img src="" alt="" width="196" height="42"/></a></div>
                     <p>Ganhe Mais | Gaste Menos | Praticidade | Inovação</p>
                     <ul class="footer-contacts d-inline-block d-md-block">
                       <li>
@@ -35,9 +35,10 @@
                       <div class="form-wrap">
                         <input class="form-input" id="subscribe-form-5-email" type="email" name="email2" data-constraints="@Email @Required">
                         <label class="form-label" for="subscribe-form-5-email">Insira seu email</label>
-                      </div>
+                      
+
                       <button class="button button-block button-white" type="submit">Inscrever-se</button>
-                    </form>
+                    
                     <div class="group-lg group-middle">
                       <p class="text-white">Siga-nos</p>
                       <div>
@@ -49,7 +50,7 @@
                         </ul>
                       </div>
                     </div>
-                  </div>
+                  
                 </div>
               </div>
               <!-- <div class="col-lg-3 col-xl-3">
@@ -57,7 +58,7 @@
                   <div class="inset-top-18 wow slideInLeft" data-wow-delay="0s">
                     <h5>Nossa Loja</h5>
                     <div class="row row-10 gutters-10" data-lightgallery="group">
-                      <div class="col-6 col-sm-3 col-lg-6">
+                      <div class="col-6 col-sm-3 col-lg-6">-->
                         <!-- Thumbnail Classic-->
                         <article class="thumbnail thumbnail-mary">
                           <div class="thumbnail-mary-figure"><img src="images/galeria-loja/01-tumb.jpg" alt="" width="129" height="120"/>
@@ -96,7 +97,6 @@
                     </div>
                   </div>
                 </div>
-              </div>
             </div>
           </div>
         </div>
