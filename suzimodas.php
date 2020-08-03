@@ -68,6 +68,9 @@ include_once("cabecalho.php");
 </div>
 </div>
 </div>
+<a href="https://projetobndesgrupo5.000webhostapp.com/suzimodas.php"><button type="button" id="addProductToStore" class="btn btn-danger" style="justify-content: center">
+          ADICIONAR ITEM
+    </button></a>
 <script defer src="./js/script.js"></script>
   
 

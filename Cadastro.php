@@ -1,11 +1,10 @@
 <?php
 @session_start();
-
-/*interface cadastro {
+interface cadastro {
     public  function cadastrar();
     public  function alterar();
     public  function excluir();
-}*/
+}
 ?>
 <head>
     <title>Loja web | Cadastro</title>
@@ -142,7 +141,7 @@
             </select>
           </label>
 
-          <label>Selecionar categoria:
+          <label>Selecionar Subcategoria:
             <select id="storeType" class="form-control listSubCategory">
               <option> </option>
             </select>
@@ -174,9 +173,9 @@
         </div>
         </form>
 
-        <button type="button" id="addProductToStore" class="btn btn-danger" style="justify-content: center">
+        <a href="https://projetobndesgrupo5.000webhostapp.com/suzimodas.php"><button type="button" id="addProductToStore" class="btn btn-danger" style="justify-content: center">
           ADICIONAR ITEM
-        </button>
+    </button></a>
        
 
           </div>
