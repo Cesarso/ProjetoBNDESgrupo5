@@ -1,0 +1,8 @@
+1.png: https://unsplash.com/photos/TT-ROxWj9nA
+2.jpg: https://pixabay.com/pt/photos/pizza-bebida-alimentos-386717/
+3.jpg: https://unsplash.com/photos/V37iTrYZz2E
+4.jpg: https://unsplash.com/photos/sEApBUS4fIk
+5.png: https://unsplash.com/photos/0n70cnyOFgc
+6.png: https://unsplash.com/photos/Fzde_6ITjkw
+7.https://www.udemy.com/course/criando-um-site-para-delivery/
+8.https://www.templatemonster.com/website-templates/farm-responsive-website-template-58411.html
